@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debasmit2004
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java And Python
 - 💞️ I’m looking to collaborate with Programmers
 
 
